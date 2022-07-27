@@ -223,7 +223,23 @@ letter-spacing: 0.06em;
 
 color: #212121;
 }
-.description-images{
+.index-cards{
+    width: 270px;
+    height: 368px;
+}
+.card {
+    width: 370px;
+    height: 404px;
+    margin-bottom: 20;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
+}
+.image-size {
+    max-width: 100%;
+    height: auto;
+}
+.card-content{
     
 font-style: normal;
 font-weight: 400;
